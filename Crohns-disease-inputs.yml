@@ -1,0 +1,90 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/crohns-disease-enteritis---secondary.py
+inputModule3:
+  class: File
+  path: python/intestinal-crohns-disease---secondary.py
+inputModule4:
+  class: File
+  path: python/crohns-disease-unspecified---secondary.py
+inputModule5:
+  class: File
+  path: python/crohns-disease-obstruction---secondary.py
+inputModule6:
+  class: File
+  path: python/crohns-disease-fistula---secondary.py
+inputModule7:
+  class: File
+  path: python/crohns-disease-bleeding---secondary.py
+inputModule8:
+  class: File
+  path: python/crohns-disease-complication---secondary.py
+inputModule9:
+  class: File
+  path: python/crohns-disease-bowel---secondary.py
+inputModule10:
+  class: File
+  path: python/crohn's---secondary.py
+inputModule11:
+  class: File
+  path: python/perianal-crohns-disease---secondary.py
+inputModule12:
+  class: File
+  path: python/crohns-disease-anastomosis---secondary.py
+inputModule13:
+  class: File
+  path: python/crohns-disease-arthritis---secondary.py
+inputModule14:
+  class: File
+  path: python/terminal-crohns-disease---secondary.py
+inputModule15:
+  class: File
+  path: python/orofacial-crohns-disease---secondary.py
+inputModule16:
+  class: File
+  path: python/crohns-disease-gingivae---secondary.py
+inputModule17:
+  class: File
+  path: python/crohns-disease-stricture---secondary.py
+inputModule18:
+  class: File
+  path: python/crohns-disease-remission---secondary.py
+inputModule19:
+  class: File
+  path: python/crohns-disease-colon---secondary.py
+inputModule20:
+  class: File
+  path: python/crohns-disease-duodenum---secondary.py
+inputModule21:
+  class: File
+  path: python/crohns-disease-jejunum---secondary.py
+inputModule22:
+  class: File
+  path: python/crohns-disease-rectum---secondary.py
+inputModule23:
+  class: File
+  path: python/crohns-disease-ileum---secondary.py
+inputModule24:
+  class: File
+  path: python/crohns-disease-iritis---secondary.py
+inputModule25:
+  class: File
+  path: python/crohns-disease-pylorus---secondary.py
+inputModule26:
+  class: File
+  path: python/crohns-disease-antrum---secondary.py
+inputModule27:
+  class: File
+  path: python/crohns-disease-esophagu---secondary.py
+inputModule28:
+  class: File
+  path: python/crohns-disease-stomach---secondary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
